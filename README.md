@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **mdtanker/mdtanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the Victoria University of Wellington, in New Zealand. I'm part of the [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic) where I study Antarctica's **Ross Ice Shelf** with the use of airborne geophysics data from the [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/data/rosetta-ice). I completed my undergraduate degree at [Colorado College](https://www.coloradocollege.edu/) where I majored in Geology, and began learning about geophysics and Antarctica. 
+
+My current research topics are:
+* [Determining magnetic basement topography](https://github.com/mdtanker/RIS_basement_sediment) beneath the Ross Ice Shelf
+* Developing a sub-Ice Shelf bathymetry model from the inversion of airborne gravity data
+* Estimating geothermal heat flux with airborne magnetics data
