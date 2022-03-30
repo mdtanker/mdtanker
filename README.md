@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the Victoria University of Wellington, in New Zealand :new_zealand:. I'm part of the [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic) where I study Antarctica's :antarctica: **Ross Ice Shelf** with the use of airborne :airplane: geophysics data from the [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/data/rosetta-ice). I completed my undergraduate degree at [Colorado College](https://www.coloradocollege.edu/) where I majored in Geology, and began learning about geophysics and Antarctica. 
 
-past research :zzz::
-* [Determining magnetic basement topography](https://github.com/mdtanker/RIS_basement_sediment) beneath the Ross Ice Shelf
+past research :zzz:: [Determining magnetic basement topography](https://github.com/mdtanker/RIS_basement_sediment) beneath the Ross Ice Shelf
 
-current research :hourglass_flowing_sand::
-* Developing a sub-Ice Shelf bathymetry model from the inversion of airborne gravity data
+current research :hourglass_flowing_sand:: Developing a sub-Ice Shelf bathymetry model from the inversion of airborne gravity data
 
-future research  :soon::
-* Estimating geothermal heat flux with airborne magnetics data
+future research  :soon:: Estimating geothermal heat flux with airborne magnetics data
+
+Other research interests include:
+* geologic controls on ice dynamics
+* groundwater interactions with sub-ice hydrologic system 
+* tectonic development of the Ross Embayment
