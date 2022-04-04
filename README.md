@@ -18,7 +18,7 @@ I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the 
 
 past research :zzz:: [Determining magnetic basement topography](https://github.com/mdtanker/RIS_basement_sediment) beneath the Ross Ice Shelf
 
-current research :hourglass_flowing_sand:: Developing a sub-Ice Shelf bathymetry model from the inversion of airborne gravity data
+current research :hourglass_flowing_sand:: [Developing a sub-Ice Shelf bathymetry model](https://github.com/mdtanker/RIS_gravity_inversion.git) from the inversion of airborne gravity data
 
 future research  :soon:: Estimating geothermal heat flux with airborne magnetics data
 
