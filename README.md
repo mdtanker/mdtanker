@@ -19,7 +19,10 @@ I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the 
 Check out my Python package [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/) for easily visualizing and creating figures of Antarctic data.
 
 ## Research
+
 past research :zzz:: Determining [magnetic basement](https://github.com/mdtanker/RIS_basement_sediment) topography beneath the Ross Ice Shelf ([GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371))
+
+[![basement repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=RIS_basement_sediment&show_owner=true&theme=transparent)](https://github.com/mdtanker/RIS_basement_sediment)
 
 current research :hourglass_flowing_sand:: Developing a sub-Ice Shelf [bathymetry model](https://github.com/mdtanker/RIS_gravity_inversion.git) from the inversion of airborne gravity data
 
@@ -29,3 +32,14 @@ Other research interests include:
 * geologic controls on ice dynamics
 * groundwater interactions with sub-ice hydrologic system 
 * tectonic development of the Ross Embayment
+
+## Code
+
+🔐 Check out the great Python package from [Fatiando](https://www.fatiando.org/).
+
+[![harmonica repo card](https://github-readme-stats.vercel.app/api/pin/?username=fatiando&repo=harmonica&show_owner=true&theme=transparent)](https://github.com/fatiando/harmonica)
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtanker&hide=issues&show_icons=true&include_all_commits=true&theme=transparent&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanker&layout=compact&theme=transparent)](https://github.com/mdtanker/github-readme-stats)
+
