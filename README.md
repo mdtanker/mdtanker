@@ -35,7 +35,7 @@ Other research interests include:
 
 ## Code
 
-🔐 Check out the great Python package from [Fatiando](https://www.fatiando.org/).
+🔐 Check out the great Python packages from [Fatiando](https://www.fatiando.org/).
 
 [![harmonica repo card](https://github-readme-stats.vercel.app/api/pin/?username=fatiando&repo=harmonica&show_owner=true&theme=transparent)](https://github.com/fatiando/harmonica)
 
