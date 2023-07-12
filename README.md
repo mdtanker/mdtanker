@@ -26,10 +26,13 @@ past research :zzz:: Determining [magnetic basement](https://github.com/mdtanker
 
 current research :hourglass_flowing_sand:: Developing a sub-Ice Shelf [bathymetry model](https://github.com/mdtanker/RIS_gravity_inversion.git) from the inversion of airborne gravity data
 
-future research  :soon:: Estimating geothermal heat flux with airborne magnetics data
+[![inversion repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=RIS_gravity_inversion&show_owner=true&theme=transparent)](https://github.com/mdtanker/RIS_gravity_inversion)
+
+future research  :soon:: Expanding the usability and documentation of the above inversion!
 
 Other research interests include:
 * geologic controls on ice dynamics
+* various applications of geometric non-linear gravity inversions
 * groundwater interactions with sub-ice hydrologic system 
 * tectonic development of the Ross Embayment
 
