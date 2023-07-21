@@ -18,6 +18,8 @@ I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the 
 
 Check out my Python package [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/) for easily visualizing and creating figures of Antarctic data.
 
+[![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=antarctic_plots&show_owner=true&theme=transparent)](https://github.com/mdtanker/antarctic_plots)
+
 ## Research
 
 past research :zzz:: Determining [magnetic basement](https://github.com/mdtanker/RIS_basement_sediment) topography beneath the Ross Ice Shelf ([GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371))
