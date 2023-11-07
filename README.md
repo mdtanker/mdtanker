@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a *Geologist and Potential Fields Geophysicist* working on my Ph.D. at the Victoria University of Wellington, in New Zealand :new_zealand:. I'm part of the [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic) where I study Antarctica's :antarctica: **Ross Ice Shelf** with the use of airborne :airplane: geophysics data from the [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/data/rosetta-ice). I completed my undergraduate degree at [Colorado College](https://www.coloradocollege.edu/) where I majored in Geology, and began learning about geophysics and Antarctica. 
+I am a *Geologist and Potential Fields Geophysicist* who recently (2023) finished my Ph.D. at the Victoria University of Wellington, in New Zealand :new_zealand:. I was part of the [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic) where I studied Antarctica's :antarctica: **Ross Ice Shelf** with the use of airborne :airplane: geophysics data from the [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/data/rosetta-ice). I completed my undergraduate degree at [Colorado College](https://www.coloradocollege.edu/) where I majored in Geology, and began learning about geophysics and Antarctica. 
 
-Check out my Python package [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/) for easily visualizing and creating figures of Antarctic data.
+My PhD thesis can be accessed [here](https://openaccess.wgtn.ac.nz/articles/thesis/Airborne_Geophysical_Investigation_beneath_Antarctica_s_Ross_Ice_Shelf/24408304), and the latex files and jupyter notebooks to create the figures are in [this GitHub repository](https://github.com/mdtanker/phdthesis). 
+
+Check out my Python package [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/) which provides many tools to help conduct Antarctic research.
 
 [![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=antarctic_plots&show_owner=true&theme=transparent)](https://github.com/mdtanker/antarctic_plots)
 
