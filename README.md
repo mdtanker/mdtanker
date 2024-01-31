@@ -21,10 +21,11 @@ My PhD thesis can be accessed [here](https://openaccess.wgtn.ac.nz/articles/thes
 ## Python Packages
 I currently maintain two Python packages: 
 
-* [Antarctic-Plots](https://antarctic-plots.readthedocs.io/):
-  This package provides many tools to help conduct Antarctic research. This includes easily downloading a retrieving a wide range of Antarctic datasets (i.e. imagery, topography, ice velocity), plotting functions for publication-quality maps and cross-sections, and many other helpful functions.
+* 
+[PolarToolkit](https://antarctic-plots.readthedocs.io/):
+  This package provides many tools to help conduct polar/cryospheric research. This includes easily downloading a retrieving a wide range of datasets (i.e. imagery, topography, ice velocity), plotting functions for publication-quality maps and cross-sections, and many other helpful functions.
   
-  [![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=antarctic_plots&show_owner=true&theme=transparent)](https://github.com/mdtanker/antarctic_plots)
+  [![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=polartoolkit&show_owner=true&theme=transparent)](https://github.com/mdtanker/polartoolkit)
 
 * [Invert4Geom](https://invert4geom.readthedocs.io/):
   This package allows users to perform 3D gravity inversions for modelling the relief (topography) of an Earth layer. These layers are represented as a density contrast between the above and below materials. Common uses are modeling bathymetry (contrast between water and sediment), basement topography (contrast between sediment and crystalline rock), or the Moho (contrast between crust and mantle).
