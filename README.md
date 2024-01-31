@@ -21,8 +21,7 @@ My PhD thesis can be accessed [here](https://openaccess.wgtn.ac.nz/articles/thes
 ## Python Packages
 I currently maintain two Python packages: 
 
-* 
-[PolarToolkit](https://antarctic-plots.readthedocs.io/):
+* [PolarToolkit](https://antarctic-plots.readthedocs.io/):
   This package provides many tools to help conduct polar/cryospheric research. This includes easily downloading a retrieving a wide range of datasets (i.e. imagery, topography, ice velocity), plotting functions for publication-quality maps and cross-sections, and many other helpful functions.
   
   [![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=polartoolkit&show_owner=true&theme=transparent)](https://github.com/mdtanker/polartoolkit)
@@ -38,9 +37,14 @@ past research :zzz:: Determining [magnetic basement](https://github.com/mdtanker
 
 [![basement repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=RIS_basement_sediment&show_owner=true&theme=transparent)](https://github.com/mdtanker/RIS_basement_sediment)
 
-current research :hourglass_flowing_sand:: Developing a sub-Ice Shelf [bathymetry model](https://github.com/mdtanker/RIS_gravity_inversion.git) from the inversion of airborne gravity data
+current research :hourglass_flowing_sand:: 
+Developing a [constrained geometric gravity inversion algorithm](https://github.co./mdtanker/invert4geom.git), aimed at modeling density contrasts such a the Moho or basement
 
-[![inversion repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=RIS_gravity_inversion&show_owner=true&theme=transparent)](https://github.com/mdtanker/RIS_gravity_inversion)
+[![inversion repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=invert4geom&show_owner=true&theme=transparent)](https://github.com/mdtanker/invert4geom)
+
+Developing a sub-Ice Shelf [bathymetry model](https://github.com/mdtanker/RIS_gravity_inversion.git) from the inversion of airborne gravity data
+
+[![RIS inversion repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=RIS_gravity_inversion&show_owner=true&theme=transparent)](https://github.com/mdtanker/RIS_gravity_inversion)
 
 future research  :soon:: Expanding the usability and documentation of the above inversion!
 
