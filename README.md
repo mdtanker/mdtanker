@@ -14,20 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a *Geologist and Potential Fields Geophysicist* who recently (2023) finished my Ph.D. at the Victoria University of Wellington, in New Zealand :new_zealand:. I was part of the [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic) where I studied Antarctica's :antarctica: **Ross Ice Shelf** with the use of airborne :airplane: geophysics data from the [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/data/rosetta-ice). I completed my undergraduate degree at [Colorado College](https://www.coloradocollege.edu/) where I majored in Geology, and began learning about geophysics and Antarctica. 
-
-My PhD thesis can be accessed [here](https://openaccess.wgtn.ac.nz/articles/thesis/Airborne_Geophysical_Investigation_beneath_Antarctica_s_Ross_Ice_Shelf/24408304), and the latex files and jupyter notebooks to create the figures are in [this GitHub repository](https://github.com/mdtanker/phdthesis). 
+I am a Postdoc at the Lamont Doherty Earth Observatory who uses *potential fields geophysics* to study the Earth beneath the Antarctic Ice Sheet!
 
 ## Python Packages
 I currently maintain two Python packages: 
 
-* [PolarToolkit](https://antarctic-plots.readthedocs.io/):
-  This package provides many tools to help conduct polar/cryospheric research. This includes easily downloading a retrieving a wide range of datasets (i.e. imagery, topography, ice velocity), plotting functions for publication-quality maps and cross-sections, and many other helpful functions.
+* [PolarToolkit](https://polartoolkit.readthedocs.io/):
+  This package provides many tools to help conduct polar/cryospheric research. This includes easily downloading and retrieving a wide range of datasets (i.e. imagery, topography, ice velocity), plotting functions for publication-quality maps and cross-sections, and many other helpful functions.
   
-  [![antarctic plots repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=polartoolkit&show_owner=true&theme=transparent)](https://github.com/mdtanker/polartoolkit)
+  [![polartoolkit repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=polartoolkit&show_owner=true&theme=transparent)](https://github.com/mdtanker/polartoolkit)
 
 * [Invert4Geom](https://invert4geom.readthedocs.io/):
-  This package allows users to perform 3D gravity inversions for modelling the relief (topography) of an Earth layer. These layers are represented as a density contrast between the above and below materials. Common uses are modeling bathymetry (contrast between water and sediment), basement topography (contrast between sediment and crystalline rock), or the Moho (contrast between crust and mantle).
+  This package allows users to perform 3D geometric gravity inversions for modeling the relief (topography) of an Earth layer, such as the Moho, the sediment-basement contact, or bathymetry. This package includes function for performing stochastic uncertainty analysis to give spatially-variable uncertainty estimates.
   
   [![invert4geom repo card](https://github-readme-stats.vercel.app/api/pin/?username=mdtanker&repo=invert4geom&show_owner=true&theme=transparent)](https://github.com/mdtanker/invert4geom)
 
