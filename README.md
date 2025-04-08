@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Postdoc at the Lamont Doherty Earth Observatory who uses *potential fields geophysics* to study the Earth beneath the Antarctic Ice Sheet!
+I am a Postdoc at Kiel University (CAU) who uses *potential fields geophysics* to study the Earth beneath the Antarctic Ice Sheet.
 
 ## Python Packages
 I currently maintain two Python packages: 
